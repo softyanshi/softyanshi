@@ -54,6 +54,14 @@ Here are a few things I’ve built recently:
 
 
 <p align="left">
+
+  <a href="https://github.com/softyanshi/saas-app">
+    <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softyanshi&repo=saas-app&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
+  </a>
+
+  <a href="https://github.com/softyanshi/job-portal-custom">
+    <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softyanshi&repo=job-portal-custom&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
+  </a>
   
   <a href="https://github.com/softyanshi/banking">
     <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=softyanshi&repo=banking&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" />
